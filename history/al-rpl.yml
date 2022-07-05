@@ -1,7 +1,7 @@
 url: $URL_ALRPL
-status: up
-code: 200
-responseTime: 747
-lastUpdated: 2022-07-04T23:16:49.810Z
+status: down
+code: 429
+responseTime: 2549
+lastUpdated: 2022-07-05T08:22:12.954Z
 startTime: Mon Jul 04 2022 06:03:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
