@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "al-rpl",
     "status": "up",
-    "uptime": "90.17%",
-    "uptimeDay": "88.21%",
-    "uptimeWeek": "66.58%",
-    "uptimeMonth": "77.65%",
-    "uptimeYear": "90.17%",
-    "time": 2687,
-    "timeDay": 1908,
-    "timeWeek": 4842,
-    "timeMonth": 3262,
-    "timeYear": 2687,
+    "uptime": "90.24%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "74.46%",
+    "uptimeMonth": "77.80%",
+    "uptimeYear": "90.24%",
+    "time": 2679,
+    "timeDay": 624,
+    "timeWeek": 4652,
+    "timeMonth": 3272,
+    "timeYear": 2679,
     "dailyMinutesDown": {
-      "2022-09-17": 86,
+      "2022-09-17": 76,
       "2022-09-16": 85,
       "2022-09-14": 110,
       "2022-09-13": 343,
@@ -64,7 +64,8 @@
       "2022-07-25": 20,
       "2022-07-22": 18,
       "2022-07-20": 35,
-      "2022-07-19": 77
+      "2022-07-19": 77,
+      "2022-07-18": 16
     }
   }
 ]
