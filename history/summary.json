@@ -4,18 +4,19 @@
     "url": "$URL_ALRPL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "al-rpl",
-    "status": "up",
-    "uptime": "91.37%",
-    "uptimeDay": "93.11%",
+    "status": "down",
+    "uptime": "91.41%",
+    "uptimeDay": "94.38%",
     "uptimeWeek": "96.91%",
-    "uptimeMonth": "78.10%",
-    "uptimeYear": "91.37%",
+    "uptimeMonth": "78.49%",
+    "uptimeYear": "91.41%",
     "time": 2641,
     "timeDay": 529,
     "timeWeek": 1871,
     "timeMonth": 2294,
     "timeYear": 2641,
     "dailyMinutesDown": {
+      "2022-09-30": 0,
       "2022-09-29": 99,
       "2022-09-28": 90,
       "2022-09-27": 101,
@@ -62,8 +63,7 @@
       "2022-08-10": 31,
       "2022-08-09": 40,
       "2022-08-08": 117,
-      "2022-08-07": 22,
-      "2022-08-03": 35
+      "2022-08-07": 22
     }
   }
 ]
