@@ -6,17 +6,16 @@
     "slug": "al-rpl",
     "status": "up",
     "uptime": "96.62%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "96.62%",
-    "time": 2862,
-    "timeDay": 3996,
-    "timeWeek": 4751,
-    "timeMonth": 4597,
-    "timeYear": 2862,
+    "time": 2866,
+    "timeDay": 3408,
+    "timeWeek": 4949,
+    "timeMonth": 4307,
+    "timeYear": 2866,
     "dailyMinutesDown": {
-      "2023-01-24": 11,
       "2023-01-21": 33,
       "2023-01-15": 109,
       "2023-01-14": 23,
@@ -71,7 +70,7 @@
       "2022-09-06": 551,
       "2022-09-05": 195,
       "2022-09-04": 506,
-      "2022-09-03": 47
+      "2022-09-03": 71
     }
   }
 ]
