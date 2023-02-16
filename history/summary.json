@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "al-rpl",
     "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "97.03%",
-    "time": 2908,
-    "timeDay": 3915,
-    "timeWeek": 4672,
-    "timeMonth": 3685,
-    "timeYear": 2908,
+    "uptime": "97.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "97.01%",
+    "time": 2904,
+    "timeDay": 3814,
+    "timeWeek": 4015,
+    "timeMonth": 3679,
+    "timeYear": 2904,
     "dailyMinutesDown": {
-      "2023-02-15": 11,
       "2023-02-14": 96,
       "2023-02-13": 22,
       "2023-02-08": 34,
@@ -76,7 +75,7 @@
       "2022-09-07": 672,
       "2022-09-06": 551,
       "2022-09-05": 195,
-      "2022-09-04": 54
+      "2022-09-04": 143
     }
   }
 ]
